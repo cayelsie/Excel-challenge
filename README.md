@@ -1,1 +1,1 @@
-This contains the Excel challenge assignment, including the required and bonus materials, as well as an analysis of the kickstarter campaign data.
+This excel practice project involves kickstarter campaign data. Additional calculations, conditional formatting, pivot tables and charts were used to analyze the data. The word document contains a write-up of the analysis.
